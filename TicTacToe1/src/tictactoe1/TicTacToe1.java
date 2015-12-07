@@ -161,7 +161,7 @@ public class TicTacToe1 extends JFrame implements ActionListener // extends clas
 
         //...set window characteristics
         setLocationRelativeTo(null);
-        setTitle("Caleb's Tic Tac Toe");
+        setTitle("Karstens Tic Tac Toe");
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
     }//end of constructor
 
